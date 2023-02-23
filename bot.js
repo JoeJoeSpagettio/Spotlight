@@ -31,7 +31,7 @@
     }
 
 
-    await s4d.client.login('ODkyMTYwMjMxNTc5MTkzMzY1.Guwdbp.30WkV021fFbh_fwzvdpN-ijLSD48jgPmQJwMhc').catch((e) => {
+    await s4d.client.login('BOT TOKEN HERE').catch((e) => {
         s4d.tokenInvalid = true;
         s4d.tokenError = e;
     });
